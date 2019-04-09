@@ -28,7 +28,7 @@ namespace ProximitySearch
                 Console.WriteLine(ex.Message);
                 Main(new string[0]);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Console.WriteLine("unknown error occured");
                 Main(new string[0]);
