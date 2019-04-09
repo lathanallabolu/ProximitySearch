@@ -31,3 +31,14 @@ C:\Final\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.csproj.CoreCo
 C:\Final\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.csproj.CopyComplete
 C:\Final\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.exe
 C:\Final\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.pdb
+C:\finalupload\ProximitySearch\ProximitySearch\bin\Debug\input.txt
+C:\finalupload\ProximitySearch\ProximitySearch\bin\Debug\ProximitySearch.exe.config
+C:\finalupload\ProximitySearch\ProximitySearch\bin\Debug\ProximitySearch.exe
+C:\finalupload\ProximitySearch\ProximitySearch\bin\Debug\ProximitySearch.pdb
+C:\finalupload\ProximitySearch\ProximitySearch\bin\Debug\ProximitySearch.Services.dll
+C:\finalupload\ProximitySearch\ProximitySearch\bin\Debug\ProximitySearch.Services.pdb
+C:\finalupload\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.csprojAssemblyReference.cache
+C:\finalupload\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.csproj.CoreCompileInputs.cache
+C:\finalupload\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.csproj.CopyComplete
+C:\finalupload\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.exe
+C:\finalupload\ProximitySearch\ProximitySearch\obj\Debug\ProximitySearch.pdb
