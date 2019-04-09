@@ -1,0 +1,11 @@
+C:\Users\212561870\source\repos\ProximitySearch\ProximitySearch.Services\bin\Debug\ProximitySearch.Services.dll
+C:\Users\212561870\source\repos\ProximitySearch\ProximitySearch.Services\bin\Debug\ProximitySearch.Services.pdb
+C:\Users\212561870\source\repos\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.csproj.CoreCompileInputs.cache
+C:\Users\212561870\source\repos\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.dll
+C:\Users\212561870\source\repos\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.pdb
+C:\Final\ProximitySearch\ProximitySearch.Services\bin\Debug\ProximitySearch.Services.dll
+C:\Final\ProximitySearch\ProximitySearch.Services\bin\Debug\ProximitySearch.Services.pdb
+C:\Final\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.csprojAssemblyReference.cache
+C:\Final\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.csproj.CoreCompileInputs.cache
+C:\Final\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.dll
+C:\Final\ProximitySearch\ProximitySearch.Services\obj\Debug\ProximitySearch.Services.pdb
